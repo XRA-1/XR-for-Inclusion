@@ -18,7 +18,7 @@ Note
 Submissions should preferably include a video demonstration and/or a text walk-through, so that potential users don’t have to deploy a solution to understand what it does. Suggestions will be reviewed on the basis of clarity, functionality, and usefulness. 
 Table of Contents 
 
-1.	General Resources 
+1.	[**General Resources**](#General_Resources) 
 2.	Additional Inclusivity Guidelines 
 3.	Platform Specific Solutions 
 4.	Organizations and Articles 
@@ -26,7 +26,7 @@ Table of Contents
 6.	Developer FAQ’s 
 7.	CEO FAQ’s
 
-Inclusivity Guides
+General Resources
 
 [XRA’s Developers Guide, Chapter Two (guidebook)](https://xra.org/research/xr-primer-2-0-a-starter-guide-for-developers/) 
 
