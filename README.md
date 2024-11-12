@@ -1,4 +1,4 @@
-Project Overview 
+###Project Overview 
 
 The XR for Inclusivity project is a collection of resources hosted by XR Association (XRA), that provides a central place for developers to find solutions for creating projects that are accessible and represent all people. XRA is inspired by developers and XR programs and seeks to ensure that projects created for XR technology reflect authentic depictions of diverse communities and access to the programs are inclusive for all people. 
 
@@ -48,3 +48,5 @@ ITIF’s guidebook, “Current and Potential Uses of AR/VR for Equity and Inclus
 [How to Embed & Operationalize DEI in Your Organization](https://circaworks.com/resources-diversity-embed-operationalize-dei-in-your-organization-whitepaper/?creative=&keyword=diversity%20and%20inclusion&matchtype=p&network=o&device=c&hsa_acc=2427156630&hsa_net=adwords&hsa_cam=403649370&hsa_ad=&hsa_kw=diversity%20and%20inclusion&hsa_grp=1339205739753096&hsa_mt=p&hsa_ver=3&hsa_src=o&hsa_tgt=kwd-83700883907956:loc-190&msclkid=f895b711687b126d6bf2d1bb207a8cc5&utm_source=bing&utm_medium=cpc&utm_campaign=Search%20%7C%20Diversity%20%7C%20Recruitment&utm_term=diversity%20and%20inclusion&utm_content=Diversity%20Hiring%20-%209%2F9%2F20)
 
 A guide for HR professionals and employers to take DEI to the next level by focusing on how to examine, operationalize, and embed DEI into practices along four key pillars: talent acquisition, performance management, compensation practices, and learning and development.
+
+# Additional Inclusivity Resources
