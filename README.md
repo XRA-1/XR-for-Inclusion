@@ -20,7 +20,7 @@ Submissions should preferably include a video demonstration and/or a text walk-t
 ### Table of Contents 
 
 1.	[**General Resources**](#general-resources) 
-2.	[**Additional Inclusivity Resources**](Additional-Inclusivity-Resources) 
+2.	[**Additional Inclusivity Resources**](additional-inclusivity-resources) 
 3.	Platform Specific Solutions 
 4.	Organizations and Articles 
 5.	Developer Communities 
