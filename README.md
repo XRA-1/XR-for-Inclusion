@@ -26,7 +26,7 @@ Table of Contents
 6.	Developer FAQ’s 
 7.	CEO FAQ’s
 
-General Resources
+# General Resources
 
 [XRA’s Developers Guide, Chapter Two (guidebook)](https://xra.org/research/xr-primer-2-0-a-starter-guide-for-developers/) 
 
