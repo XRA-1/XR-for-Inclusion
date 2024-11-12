@@ -13,3 +13,30 @@ Contributions Welcome
 
 The XR for Inclusion Project is open source. If you know of resources that other developers could benefit from, please share them! 
 
+Note
+
+Submissions should preferably include a video demonstration and/or a text walk-through, so that potential users don’t have to deploy a solution to understand what it does. Suggestions will be reviewed on the basis of clarity, functionality, and usefulness. 
+Table of Contents 
+
+1.	General Resources 
+2.	Additional Inclusivity Guidelines 
+3.	Platform Specific Solutions 
+4.	Organizations and Articles 
+5.	Developer Communities 
+6.	Developer FAQ’s 
+7.	CEO FAQ’s
+
+Inclusivity Guides
+
+[XRA’s Developers Guide, Chapter Two (guidebook)](https://xra.org/research/xr-primer-2-0-a-starter-guide-for-developers/) 
+
+Chapter two is an update to XRA’s Developers Guide, a starter guide for developers designing reality-expanding experiences. This standalone update, “Creating Safe, Inclusive, and Respectful Immersive Experiences,” offers a set of industry-backed best practices for developing inclusive, respectful, and safe spaces for all users.
+
+XR Access: The Value of Inclusively Designed XR Workplace Tools
+XR Access’s report on the value of inclusively designed XR Workplace tools reflects and provides information about how XR programs technologies have made their experience more acceptable for all people
+Inclusive Workplace XR – Partnership on Employment and Accessible Technology (PEAT) - Department of Labor
+PEAT’s Inclusive XR in the Workplace report is a resource that ensures developers create inclusive XR programs accessible for all people. They provide suggestions, benefits, and guidelines for developers to follow. 
+Inclusive, Audio & Visual-Based Navigation Systems (IAVBNS) for Indivi – Consumer Technology Association® (cta.tech)
+Consumer Technology Association’s Inclusive, Audio, & Visual-Based Navigation Systems standards provide requirements for developers to help individuals with intellectual and developmental disabilities overcome barriers to further independent travel. 
+Current and Potential Uses of AR/VR for Equity and Inclusion | ITIF: ITIF’s guidebook, “Current and Potential Uses of AR/VR for Equity and Inclusion”, is a reference that leads developers through how they can make their programs more accessible for all.
+How to Embed & Operationalize DEI in Your Organization (circaworks.com): A guide for HR professionals and employers to take DEI to the next level by focusing on how to examine, operationalize, and embed DEI into practices along four key pillars: talent acquisition, performance management, compensation practices, and learning and development.
