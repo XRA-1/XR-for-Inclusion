@@ -1,4 +1,4 @@
-### Project Overview 
+# Project Overview 
 
 The XR for Inclusivity project is a collection of resources hosted by XR Association (XRA), that provides a central place for developers to find solutions for creating projects that are accessible and represent all people. XRA is inspired by developers and XR programs and seeks to ensure that projects created for XR technology reflect authentic depictions of diverse communities and access to the programs are inclusive for all people. 
 
