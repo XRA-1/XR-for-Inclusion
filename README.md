@@ -23,10 +23,10 @@ Submissions should preferably include a video demonstration and/or a text walk-t
 2.	[**Additional Inclusivity Resources**](#additional-inclusivity-resources) 
 3.	Platform Specific Solutions 
 4.	Organizations and Articles 
-5.	Developer Communities
+5.	[**Developer Communities**](#developer-communities)
 6.	[**Inclusivity Terms and Definitions**](#inclusivity-terms-and-definitions)
-7.	Developer FAQ’s 
-8.	CEO FAQ’s
+7.	[**Developer FAQ’s**](#developer-faq's) 
+9.	[**Decision Maker FAQ’s**](*decision-maker-faq's)
 
 # General Resources
 
@@ -96,6 +96,50 @@ This page provides engineers and designers a way to understand and discuss the a
 
 Magic Leap’s Accessibility page leads developers through suggested accommodations developers need for their game to be more accessible. 
 
+# Developer Communities
+
+
+
+
 # Inclusivity Terms and Definitions
 
+•	Intersectionality – How different aspects of a person’s identity (e.g. race, gender, socioeconomic status) intersect to create unique experiences of discrimination or privilege. 
+
+•	Representation – The presence and participation of people from various identities and backgrounds in an organization or space.
+
+•	Equitable Access – Ensuring all individuals have the necessary resources and opportunities to succeed, taking into account individual needs and systemic barriers. 
+
+•	Universal design – Creating products, environments, and services that are usable by all people, regardless of their abilities or disabilities. 
+
+•	Accommodation – Adjustments or modifications provided to individuals with disabilities to ensure equal access to opportunities. 
+
+•	Assistive technology – Tools and devices designed to assist people with disabilities in performing tasks that might otherwise be difficult. 
+
+•	Microaggressions – Subtle, often unintentional, comments or actions that reflect bias or stereotypes, which can be harmful to marginalized individuals. 
+
+•	Digital accessibility – Ensuring websites, apps, and digital tools are usable by individuals with disabilities including compatibility with screen readers, closed captions, and keyboard navigation. 
+
+•	ADA – Americans with Disabilities Act, which mandates equal access and accommodations for people with disabilities in public spaces, employment, and digital platforms. 
+
+•	Screen Readers - Software applications that convert digital text on a screen into spoken words or braille output. They help individuals who are blind or visually impaired to navigate and interact with digital content, including websites, documents, and applications.
+
+•	Speech-to-Text - A technology that converts spoken language into written text. It is often used for dictation, transcription, and providing real-time captions for individuals with hearing impairments or for convenience in various communication contexts.
+
+•	Closed Captions - Text that appears on a video screen, representing the spoken words and other audio elements like sound effects. Closed captions are used to make video content accessible to people who are deaf or hard of hearing. For more information about closed captions in XR, please review the Community Discussion Series – Closed Captioning.   
+
+•	Alternative Text - A brief description of an image or non-text element embedded in digital content. Alt text is used by screen readers to describe images to visually impaired users and to provide context if images fail to load.
+
+•	Braille – A tactile writing system used by people who are blind or visually impaired. It consists of raised dots that represent letters, numbers, and punctuation marks, which can be read by touch.
+
+•	Zoom Magnification - An accessibility feature that allows users to enlarge the content on their screen. It assists individuals with visual impairments by making text, images, and interface elements easier to see.
+
+•	Voice Command – Technology that allows users to control devices, applications, or systems using voice instructions. It is commonly used in virtual assistants and accessibility tools for people with physical disabilities.
+
+•	Sip-and-Puff System - An assistive technology that allows individuals with limited mobility to control devices by inhaling (sip) or exhaling (puff) into a tube. It is often used by people with quadriplegia to operate wheelchairs or computers.
+
+•	Eye-Tracking - A technology that tracks where a user is looking and can be used as an input method. It is often employed in assistive technology to help individuals with severe mobility impairments control computers or communication devices by moving their eyes.
+
+# Developer FAQ's
+
+# Decision Maker FAQ's
 
