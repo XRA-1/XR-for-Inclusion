@@ -25,8 +25,8 @@ Submissions should preferably include a video demonstration and/or a text walk-t
 4.	Organizations and Articles 
 5.	[**Developer Communities**](#developer-communities)
 6.	[**Inclusivity Terms and Definitions**](#inclusivity-terms-and-definitions)
-7.	[**Developer FAQ’s**](#developer-faq's) 
-9.	[**Decision Maker FAQ’s**](*decision-maker-faq's)
+7.	[**Developer FAQ’s**](#developer-faqs) 
+9.	[**Decision Maker FAQ’s**](*decision-maker-faqs)
 
 # General Resources
 
