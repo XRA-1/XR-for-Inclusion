@@ -19,13 +19,14 @@ Submissions should preferably include a video demonstration and/or a text walk-t
 
 ### Table of Contents 
 
-1.	[**General Resources**](#general-resources) 
-2.	[**Additional Inclusivity Resources**](#additional-inclusivity-resources) 
-3.	Platform Specific Solutions 
-4.	Organizations and Articles 
-5.	[**Developer Communities**](#developer-communities)
-6.	[**Inclusivity Terms and Definitions**](#inclusivity-terms-and-definitions)
-7.	[**Developer FAQ’s**](#developer-faqs) 
+1.	[**General Resources**](#general-resources)
+2.	[**Unique Inclusivity Immersive Experiences**](#unique-inclusivity-immersive-experiences)
+3.	[**Additional Inclusivity Resources**](#additional-inclusivity-resources) 
+4.	Platform Specific Solutions 
+5.	Organizations and Articles 
+6.	[**Developer Communities**](#developer-communities)
+7.	[**Inclusivity Terms and Definitions**](#inclusivity-terms-and-definitions)
+8.	[**Developer FAQ’s**](#developer-faqs) 
 9.	[**Decision Maker FAQ’s**](*decision-maker-faqs)
 
 # General Resources
@@ -50,7 +51,41 @@ ITIF’s guidebook, “Current and Potential Uses of AR/VR for Equity and Inclus
 
 A guide for HR professionals and employers to take DEI to the next level by focusing on how to examine, operationalize, and embed DEI into practices along four key pillars: talent acquisition, performance management, compensation practices, and learning and development.
 
+# Unique Inclusivity Immersive Experiences
+
+[Body of Mine VR](https://www.bodyofminevr.com/)
+
+This VR experience gives users an insight into what it feels like to live in another person’s body/gender. 
+
+[Pedestal Project](https://thegrio.com/2021/02/25/instagram-pedestal-project-black-activists/)
+
+This augmented reality experience replaces statues of confederate figures with statues of historical social justice activists.
+
+[Passage Home VR](https://arts.mit.edu/passage-home-vr/)
+
+This virtual reality experience gives viewers a glimpse into some of the struggles and biases people of color experience in everyday situations. 
+
+[VR Museum of Me](https://ccsre.stanford.edu/projects/vr-museum-me)
+
+This virtual reality experience allows viewers to learn about different countries and their history and culture. 
+
+[Goliath VR](https://goliathvr.io/)
+
+A 25-minute virtual reality experience about schizophrenia, gaming, and connection. 
+
+[Project VOISS](https://projectvoiss.org/)
+
+Developed by the University of Kansas, this virtual reality experience improves users’ social skills by guiding them through various social situations. 
+
+[Cosmonious High](https://owlchemylabs.com/blog/owlchemy-labs-shares-the-first-of-its-kind-vision-accessibility-update-for-cosmonious-high)
+
+This virtual reality experience is a game where users can explore an alien high school and interact with people of diverse identities and backgrounds. The March 2023 update includes advanced audio descriptions, and other accessibility affordances. 
+
 # Additional Inclusivity Resources
+
+[The XR Association](https://xra.org/)
+
+XRA promotes the dynamic growth of the XR Industry which includes virtual reality, augmented reality, mixed-reality, and future immersive technology. In doing this, they support and provide a community to discuss how to ensure XR programs are inclusive and accessible for all people. 
 
 [Inclusive, Immersive Workplace Technologies: Bringing Accessible XR Technologies into Fast Growing Fields](https://xra.org/research/inclusive-xr-in-the-workplace/)
 
@@ -98,8 +133,21 @@ Magic Leap’s Accessibility page leads developers through suggested accommodati
 
 # Developer Communities
 
+[Accessibility Unlocked](https://www.accessunlocked.games/)
 
+An alliance of disabled, neurodiverse, gender diverse, queer, and allies working to change the shape of game development in Australia and New Zealand. 
 
+[XR Access Initiative](https://xraccess.org/)
+
+A community committed to making virtual, augmented, and mixed reality (XR) accessible to people with disabilities.
+
+[XR Inclusion: Empowering a Diverse and Inclusive XR Industry](https://www.xrinclusion.org/)
+
+A community committed to empowering underrepresented groups in the creation of an inclusive and diverse immersive future. This community ensures that programs represent all people. 
+
+[LGBT Tech](https://www.lgbttech.org/)
+
+LGBT Tech is a diverse team of experts from multiple backgrounds that belong to the LGBTQIA+ community. Grounded in empirical research, we develop programs and resources that support LGBTQ+ communities and work to educate organizations and policy makers on the unique needs LGBTQ+ individuals face when it comes to tech.
 
 # Inclusivity Terms and Definitions
 
