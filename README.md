@@ -23,9 +23,10 @@ Submissions should preferably include a video demonstration and/or a text walk-t
 2.	[**Additional Inclusivity Resources**](#additional-inclusivity-resources) 
 3.	Platform Specific Solutions 
 4.	Organizations and Articles 
-5.	Developer Communities 
-6.	Developer FAQ’s 
-7.	CEO FAQ’s
+5.	Developer Communities
+6.	[**Inclusivity Terms and Definitions**](#inclusivity-terms-and-definitions)
+7.	Developer FAQ’s 
+8.	CEO FAQ’s
 
 # General Resources
 
@@ -51,6 +52,50 @@ A guide for HR professionals and employers to take DEI to the next level by focu
 
 # Additional Inclusivity Resources
 
-[Inclusive, Immersive Workplace Technologies: Bringing Accessible XR Technologies into Fast Growing Fields]([https://xra.org/wp-content/uploads/2021/10/InclusiveXROnePager_PEATandXRA.pdf) 
+[Inclusive, Immersive Workplace Technologies: Bringing Accessible XR Technologies into Fast Growing Fields](https://xra.org/research/inclusive-xr-in-the-workplace/)
 
 This document guides developers through why accessibility and inclusion are important for businesses and XR experiences.
+
+[RTC Accessibility User Requirements](https://www.w3.org/TR/raur/)
+
+This document outlines various accessibility related user needs, requirements, and scenarios for real-time communication (RTC). These user needs should drive accessibility requirements in various related specifications and the overall architecture that enables it.
+
+[Designing for Accessibility: The Design of Virtual and Augmented Reality](https://aliheston.gitbook.io/the-design-of-virtual-and-augmented-reality/the-foundations-of-vr-and-ar/designing-for-accessibility)
+
+This page leads developers through how they can make their programs more accessible. They discuss inclusive design regarding avatars and their features, designing for inclusive spaces, and creating your own world. 
+
+[Schell Games Accessibility Matrix for Devs Outside of Shell](https://docs.google.com/spreadsheets/d/1tWTime8ySqzk2DwymxHjHfJ4t6kzbmct6nhBaT1bNoI/edit?gid=849166936#gid=849166936)
+
+The public Schell Games Accessibility Matrix for Devs Outside Schell is a spreadsheet that gives developers definitions and criteria for their experiences so their product can be more accessible. 
+
+[Inclusion in Virtual Reality Technology](https://arxiv.org/pdf/2310.15289)
+
+This essay is a review of active involvement of diverse groups of people in the adoption, use, design, development, and applications process of XR technology.
+
+[A11y - Accessible Virtual Reality](https://www.youtube.com/channel/UCqhCc1b6Cq69eg-iYeVKOog)
+
+This channel is a compilation of videos, presentations, and recordings of meetups where people discuss accessibility in technology for people with disabilities that apply to XR/VR/AR. 
+
+[Open Inclusion](https://openinclusion.com/)
+
+Open Inclusion is a global inclusive research agency that positively addresses disability, age, and inclusion through broader and deeper authentic insights, participatory design, and inclusive innovation. 
+
+[Equal Entry AR/VR/XR Archives](https://equalentry.com/category/ar-vr-xr/)
+
+Equal Entry's Archives include collections of articles about XR accessibility.
+
+[The Role of VR in Creating a More Inclusive Workforce](https://morpheusxr.com/the-role-of-vr-in-creating-a-more-inclusive-workplace/)
+
+This page guides readers through different aspects of why XR can be a helpful tool for DEI in the workplace. They discuss what an inclusive workplace is and looks like, the role of VR in creating a more inclusive workplace, and benefits of using VR for DEI. 
+
+[Understanding Function to Design for Disability](https://learn.microsoft.com/en-us/surface/inclusive-tech-lab/understanding-function-to-design-for-disabilities)
+
+This page provides engineers and designers a way to understand and discuss the aspects of function that can lead to barriers in interaction, and the facilitators needed to overcome these barriers.
+
+[Magic Leap Accessibility](https://ml1-developer.magicleap.com/en-us/learn/guides/bp-for-accessibility)
+
+Magic Leap’s Accessibility page leads developers through suggested accommodations developers need for their game to be more accessible. 
+
+# Inclusivity Terms and Definitions
+
+
