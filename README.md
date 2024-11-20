@@ -50,3 +50,7 @@ ITIF’s guidebook, “Current and Potential Uses of AR/VR for Equity and Inclus
 A guide for HR professionals and employers to take DEI to the next level by focusing on how to examine, operationalize, and embed DEI into practices along four key pillars: talent acquisition, performance management, compensation practices, and learning and development.
 
 # Additional Inclusivity Resources
+
+[Inclusive, Immersive Workplace Technologies: Bringing Accessible XR Technologies into Fast Growing Fields]([https://xra.org/wp-content/uploads/2021/10/InclusiveXROnePager_PEATandXRA.pdf) 
+
+This document guides developers through why accessibility and inclusion are important for businesses and XR experiences.
