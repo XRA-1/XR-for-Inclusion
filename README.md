@@ -22,7 +22,7 @@ Submissions should preferably include a video demonstration and/or a text walk-t
 1.	[**General Resources**](#general-resources)
 2.	[**Unique Inclusivity Immersive Experiences**](#unique-inclusivity-immersive-experiences)
 3.	[**Additional Inclusivity Resources**](#additional-inclusivity-resources) 
-4.	Platform Specific Solutions 
+4.	[**Platform Specific Guidelines**](platform-specific-guidelines) 
 5.	Organizations and Articles 
 6.	[**Developer Communities**](#developer-communities)
 7.	[**Inclusivity Terms and Definitions**](#inclusivity-terms-and-definitions)
@@ -130,6 +130,16 @@ This page provides engineers and designers a way to understand and discuss the a
 [Magic Leap Accessibility](https://ml1-developer.magicleap.com/en-us/learn/guides/bp-for-accessibility)
 
 Magic Leap’s Accessibility page leads developers through suggested accommodations developers need for their game to be more accessible. 
+
+# Platform Specific Guidelines
+
+[Apple Vision Pro](https://support.apple.com/guide/apple-vision-pro/get-started-with-accessibility-features-tan426c48bdc/visionos)
+
+[Meta](https://www.meta.com/help/quest/articles/in-vr-experiences/oculus-features/accessibility-features/)
+
+[Microsoft](https://learn.microsoft.com/en-us/hololens/hololens2-display)
+
+[HTC Vive](https://developer.vive.com/resources/viveport/store-guide/store-submission-guide/english/content-guidelines/)
 
 # Developer Communities
 
