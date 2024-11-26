@@ -23,7 +23,6 @@ Submissions should preferably include a video demonstration and/or a text walk-t
 2.	[**Unique Inclusivity Immersive Experiences**](#unique-inclusivity-immersive-experiences)
 3.	[**Additional Inclusivity Resources**](#additional-inclusivity-resources) 
 4.	[**Platform Specific Guidelines**](#platform-specific-guidelines) 
-5.	Organizations and Articles 
 6.	[**Developer Communities**](#developer-communities)
 7.	[**Inclusivity Terms and Definitions**](#inclusivity-terms-and-definitions)
 8.	[**Developer FAQ’s**](#developer-faqs) 
